@@ -1,0 +1,14 @@
+shard-spec: "0.1.0"
+version: "0.1.0"
+name: Plan
+shorthand: plan
+description: High-level planning that maps directly to human intention
+
+install:
+  - source: inst-plan-dashboard.md
+    dest: Mesh/(Dashboard) Plans.md
+    once: true
+
+folders:
+  - Mesh/Types/Plans/
+  - Mesh/Archive/Plans/
