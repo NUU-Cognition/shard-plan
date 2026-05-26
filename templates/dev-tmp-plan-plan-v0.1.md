@@ -6,7 +6,6 @@
 ---
 id: [generate-uuid]
 tags:
-  - "#plan"
   - "#plan/plan"
 status: [draft|approved|spent]
 /* If Increments shard is installed: */
@@ -14,7 +13,9 @@ increment: [[parent increment hyperlink to file]]
 realized-into:
   - [[realized into artifacts]] [leave empty at start]
   (continue)
-template: tmp-plan-plan
+template: "[[dev-tmp-plan-plan-v0.1]]"
+authors: /* from .flint/identity.json; omit if no identity set */
+  - "[[@Person Name]]"
 ---
 
 # [Plan title - what we're planning]

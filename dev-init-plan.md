@@ -34,11 +34,11 @@ draft → approved → spent
 
 | Skill | File | Purpose |
 |-------|------|---------|
-| Refine | `sk-plan-refine.md` | Continue refining an active plan based on new input |
-| Realize | `sk-plan-realize.md` | Convert approved plan into downstream artifacts |
+| Refine | `dev-sk-plan-refine.md` | Continue refining an active plan based on new input |
+| Realize | `dev-sk-plan-realize.md` | Convert approved plan into downstream artifacts |
 
 ## Workflows
 
 | Workflow | File | Purpose |
 |----------|------|---------|
-| Create | `wkfl-plan-create.md` | Start a new plan with research phase and iterative refinement |
+| Create | `dev-wkfl-plan-create.md` | Start a new plan with research phase and iterative refinement |

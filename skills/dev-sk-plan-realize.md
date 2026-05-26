@@ -1,3 +1,5 @@
+> [!important] THIS FILE IS AN INSTRUCTION. WHEN REFERENCED IT IS MEANT TO BE TAKEN AS AN ACTION.
+
 This skill belongs to the Plan shard. Ensure you have @init-plan.md in context before continuing.
 
 # Skill: Realize Plan

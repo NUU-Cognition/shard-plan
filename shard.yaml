@@ -3,11 +3,17 @@ version: "0.1.0"
 name: Plan
 shorthand: plan
 description: High-level planning that maps directly to human intention
+dependencies:
+  - source: NUU-Cognition/shard-flint
+
+types:
+  - name: Plan
+    source: type-plan-plan.md
 
 install:
   - source: inst-plan-dashboard.md
     dest: Mesh/(Dashboard) Plans.md
-    once: true
+    mode: once
 
 folders:
   - Mesh/Types/Plans/
