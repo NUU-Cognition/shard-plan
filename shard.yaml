@@ -1,11 +1,14 @@
 shard-spec: "0.3.0"
 id: e0ae2bc4-b40e-4867-b427-d186b4b596ba
+org: nuu-cognition
+source:
+  id: b0da0628-e692-4e30-b76c-0bafe52e3122
 version: "0.1.0"
 name: Plan
 shorthand: plan
 description: High-level planning that maps directly to human intention
 dependencies:
-  - source: NUU-Cognition/shard-flint
+  "@nuu-cognition/flint": ""
 
 types:
   - name: Plan
